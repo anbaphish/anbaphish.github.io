@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------
+
+-Add decent looking backgound, maybe gradiant top and about are military/dark green leading to middle lighter green with some forest athestic, css
+
+-Add custom css elements to be used by the special HTML pages, like more hazard esque coloring of stripe orange and black background
+
+-Add custom css box for options, using buttons image file, when hovered over the text color turns eye suitable orange and box tilts 
+
+-Maybe seperate About me to new HTML, put link image at top. Keep a copy of github link a the bottom though, either far left or centered
+
+
