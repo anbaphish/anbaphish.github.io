@@ -8,4 +8,8 @@
 
 -Maybe seperate About me to new HTML, put link image at top. Keep a copy of github link a the bottom though, either far left or centered
 
+-For kill.html and the JS for crashing, maybe make child versions of that parent function, which have the only difference being what ID they're
+putting the info into by loading that with an inputed parameter or something. Then there'll be a bunch of calculations. Current 
+system just tries loading a bunch of useless class variables when those could be put into an array and ran thorugh with that parameter, and each of those have an assoiated ID on the html so it just does tons of math
+
 
