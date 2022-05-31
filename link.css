@@ -1,11 +1,10 @@
 html, body {
-
-    background: linear-Gradient(35deg, hsla(125, 26%, 27%, 0.527), #647c21a6 );
-    width: 50% auto;
-    height: 50% auto;
-    margin: 0px auto; 
-    color: #000000;  
+/* background main page*/
+background: rgb(58,96,52);
+background: linear-gradient(90deg, rgba(58,96,52,1) 27%, rgba(53,107,71,1) 70%, rgba(73,74,71,0.7908653846153846) 100%);
 };
+
+
    /*  decoration to links, link.css   */ 
       
 
