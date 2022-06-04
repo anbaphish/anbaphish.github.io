@@ -10,22 +10,24 @@ html, body {
    
     text-decoration: none;
    /* background-color: white; */
-    color: black;
     padding: 5px 5px;
     text-align: center;
     display: inline-block;
-    border-color: 10px solid black;
+    border-color: #008080;
+	 
     
      
       
   }
   a:hover {
     text-decoration: none;
+	background-color: #C0C0C0	 ;
   }
   a:active {
     text-decoration: none;
     color: black;
     background-color: rgb(74, 107, 74);
+	background: "images/button.png";
   }
   .Zblock {-moz-border-radius: 5px;
   -webkit-border-radius: 5px;
@@ -35,7 +37,9 @@ html, body {
   margin-bottom:25px;
   padding: 10px 14px 10px 10px;
   position: relative;
-  box-shadow: 0px 1px 5px #999;}
+  box-shadow: 0px 1px 5px #999;
+	  background-color: #006400  ; }
+
   
   .mblock{
     -moz-border-radius: 5px;
@@ -48,6 +52,14 @@ html, body {
   position: relative;
   box-shadow: 0px 1px 5px #999;
   display: inline-block;
+	background-color :  #F5F5DC ;
+
     
   }
   
+@font-face {
+    font-family: 'ITC Cheltenham Std Bold Condensed';
+    font-style: normal;
+    font-weight: normal;
+    src: local('ITC Cheltenham Std Bold Condensed'), url('CheltenhamStdBoldCond.woff') format('woff');
+    }

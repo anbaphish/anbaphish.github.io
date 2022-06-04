@@ -1,11 +1,13 @@
 html, body {
-/* background main page*/
+color:#FFDEAD;
+/* background main page, color main page, this is for index*/
 background: rgb(58,96,52);
 background: linear-gradient(90deg, rgba(58,96,52,1) 27%, rgba(53,107,71,1) 70%, rgba(73,74,71,0.7908653846153846) 100%);
 };
 
 
    /*  decoration to links, link.css   */ 
+
       
 
 
